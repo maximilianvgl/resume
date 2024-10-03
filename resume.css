@@ -34,6 +34,21 @@ body {
 
 }
 
+@media (max-width: 600px) {
+    #MyName {
+        font-size: 3rem;
+    }
+
+    #jobs {
+        font-size: 2rem;
+        margin-bottom: 3rem;
+    }
+
+    .TheTop {
+        margin-top: 6rem;
+    }
+}
+
 
 
 
